@@ -1,7 +1,7 @@
 {
 "name": "chatrooms",
 "version": "0.0.1",
-"description": "Multiroom chat server using NodeJS",
+"description": "Multiroom Chat Server using NodeJS Platform",
 "dependencies": {
 "socket.io": "~0.9.6",
 "mime": "~1.2.7"
